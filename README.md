@@ -12,4 +12,5 @@ The main class of the program is RDLaunch
 Write the old folder names in the first column of the Excel spreadsheet, and write the corresponding new folder names in the second column.
 After opening the program, select the Excel file, and then select the path where the batch folders that need to be modified are stored. The conversion will be done automatically.
 
-
+## Notice
+Always make sure you have only one sheet in your Excel
